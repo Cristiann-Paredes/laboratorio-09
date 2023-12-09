@@ -1,8 +1,8 @@
-##LABORATORIO 9
+LABORATORIO 9
 
 Levantamiento de de backend, donde se muestra diferente información en diferentes rutas, se presentara información del grupo de trabajo, de los integrantes y de unos productos
 
-##Cristian Paredes
+Cristian Paredes
 
 
 ## Capturas
