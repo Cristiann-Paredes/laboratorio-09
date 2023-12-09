@@ -1,13 +1,8 @@
-#LABORATORIO 10 
+#LABORATORIO 9
 
 Levantamiento de de backend, donde se muestra diferente información en diferentes rutas, se presentara información del grupo de trabajo, de los integrantes y de unos productos
 
 
-
-
-## Authors
-
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
 
 
 ## Capturas
